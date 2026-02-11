@@ -1,5 +1,4 @@
 # Buffer-Monte-Carlo-Simulation
-# Buffer-Monte-Carlo-Simulation
 
 📘 **Monte Carlo Simulation of Weak Acid Buffer Titration**
 

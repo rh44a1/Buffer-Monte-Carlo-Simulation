@@ -80,7 +80,7 @@ buffer-montecarlo-project/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/buffer-montecarlo-project.git
+git clone https://github.com/rh44a1/buffer-montecarlo-project.git
 cd buffer-montecarlo-project
 ```
 
